@@ -1,2 +1,2 @@
 # Calculator
-A calculator make by postfix
+A calculator is made by postfix
